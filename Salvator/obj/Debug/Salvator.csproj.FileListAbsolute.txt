@@ -1,0 +1,13 @@
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\bin\Debug\Salvator.exe.config
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\bin\Debug\Salvator.exe
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\bin\Debug\Salvator.pdb
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.Main.resources
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.Properties.Resources.resources
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.csproj.GenerateResource.Cache
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.exe
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.pdb
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.csprojResolveAssemblyReference.cache
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\bin\Debug\Salvator.exe.manifest
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\bin\Debug\Salvator.application
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.exe.manifest
+C:\Users\Mircea\Documents\Visual Studio 2013\Projects\Salvator\Salvator\obj\Debug\Salvator.application
